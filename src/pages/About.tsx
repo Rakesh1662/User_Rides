@@ -117,7 +117,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="animate-fade-in">
             <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-              About <span className="text-accent">Namma Rides</span>
+              About <span className="text-accent">User Rides</span>
             </h1>
             <p className="text-xl lg:text-2xl mb-8 text-white/90 max-w-3xl mx-auto">
               Your trusted vehicle rental partner in Hyderabad, providing quality vehicles 
@@ -153,7 +153,7 @@ const About = () => {
             <div className="animate-slide-in-from-left">
               <h2 className="text-3xl font-bold text-navy mb-6">Our Story</h2>
               <p className="text-steel text-lg mb-6">
-                Founded in 2020, Namma Rides began with a simple mission: to make vehicle rentals 
+                Founded in 2020, User Rides began with a simple mission: to make vehicle rentals 
                 accessible, affordable, and reliable for everyone in Hyderabad. What started as a 
                 small venture with just 5 vehicles has grown into the city's most trusted rental service.
               </p>
@@ -170,7 +170,7 @@ const About = () => {
             <div className="animate-slide-in-from-right">
               <img
                 src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=600&h=400&fit=crop&crop=center"
-                alt="Namma Rides Fleet"
+                alt="User Rides Fleet"
                 className="rounded-lg shadow-lg w-full"
               />
             </div>
@@ -182,7 +182,7 @@ const About = () => {
       <section className="py-16 bg-secondary">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12 animate-fade-in">
-            <h2 className="text-3xl font-bold text-navy mb-4">Why Choose Namma Rides?</h2>
+            <h2 className="text-3xl font-bold text-navy mb-4">Why Choose User Rides?</h2>
             <p className="text-steel text-lg">We're committed to providing the best rental experience</p>
           </div>
           
@@ -216,8 +216,8 @@ const About = () => {
                   <div>
                     <h3 className="font-semibold text-navy mb-1">Our Location</h3>
                     <p className="text-steel">
-                      Madhapur, Hyderabad<br />
-                      Telangana, India - 500081
+                      Kukatpally, Hyderabad<br />
+                      Telangana, India - 500085
                     </p>
                   </div>
                 </div>
@@ -226,7 +226,7 @@ const About = () => {
                   <Mail className="h-6 w-6 text-accent mr-4 mt-1" />
                   <div>
                     <h3 className="font-semibold text-navy mb-1">Email Us</h3>
-                    <p className="text-steel">seshaallamraju08@gmail.com</p>
+                    <p className="text-steel">rakeshsandagonda@gmail.com</p>
                   </div>
                 </div>
 
