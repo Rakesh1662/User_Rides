@@ -301,7 +301,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="animate-fade-in">
-              <h3 className="text-lg font-semibold mb-4">Namma Rides</h3>
+              <h3 className="text-lg font-semibold mb-4">User Rides</h3>
               <p className="text-white/80">
                 Your trusted partner for vehicle rentals across Hyderabad.
               </p>
@@ -348,7 +348,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-white/20 mt-8 pt-8 text-center text-white/60 animate-fade-in" style={{ animationDelay: '0.5s' }}>
-            <p>&copy; 2024 Namma Rides. All rights reserved. Made with ❤️ in Hyderabad</p>
+            <p>&copy; 2024 User Rides. All rights reserved. Made with ❤️ in Hyderabad</p>
           </div>
         </div>
       </footer>
