@@ -42,7 +42,7 @@ const Auth = () => {
         <div className="text-center mb-8">
           <Link to="/" className="flex items-center justify-center space-x-2 mb-4">
             <Car className="h-8 w-8 text-accent" />
-            <span className="text-2xl font-bold text-white">Namma Rides</span>
+            <span className="text-2xl font-bold text-white">User Rides</span>
           </Link>
           <p className="text-white/80">Your trusted vehicle rental platform</p>
         </div>
